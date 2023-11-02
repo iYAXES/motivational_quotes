@@ -33,6 +33,11 @@ class _HomeState extends State<Home> {
             'Never allow a person to tell you no who doesn’t have the power to say yes.',
         author: 'Eleanor Roosevelt',
         photo: 'assets/woman1.jpg'),
+    Quotes(
+        text:
+            'Perfection is not attainable, but if we chase perfection we can catch excellence.',
+        author: 'Vince Lombardi',
+        photo: 'assets/man.png'),
   ];
   @override
   Widget build(BuildContext context) {
